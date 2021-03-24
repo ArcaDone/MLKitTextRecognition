@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">ArcaDanTextRecognition</string>
+    <string name="desc_call_camera_activity">Text Detection :-)</string>
+    <string name="menu_item_settings">Settings</string>
+
+    <string name="pref_key_rear_camera_preview_size" translatable="false">rcpvs</string>
+    <string name="pref_key_rear_camera_picture_size" translatable="false">rcpts</string>
+    <string name="pref_key_front_camera_preview_size" translatable="false">fcpvs</string>
+    <string name="pref_key_front_camera_picture_size" translatable="false">fcpts</string>
+
+    <string name="pref_key_camera_live_viewport" translatable="false">clv</string>
+
+</resources>
